@@ -1,7 +1,7 @@
 # Munkhsaruul Oyuntuya — Software Engineer Portfolio
 
 ## About Me
-Aspiring Software Engineer with experience in fullstack development, cloud-based systems, and AI-powered applications. I enjoy building real-world systems and analyzing how they behave under different conditions, especially with AI tools.
+Full-stack software engineer focused on TypeScript development and building practical systems, including AI-powered applications and web platforms. Interested in how systems behave in real-world conditions, with experience working on AI features, content generation tools, and full-stack products.
 
 ---
 
