@@ -1,11 +1,11 @@
-# Munkhsaruul Oyuntuya — Software Engineer Portfolio
+# Munkhsaruul Oyuntuya — Junior Software Engineer Portfolio
 
 ## About Me
 Full-stack software engineer focused on TypeScript development and building practical systems, including AI-powered applications and web platforms. Interested in how systems behave in real-world conditions, with experience working on AI features, content generation tools, and full-stack products.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. AI Video Testing Playground (In Progress)
 - Testing and evaluating AI video generation tools
