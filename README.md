@@ -13,8 +13,7 @@ Full-stack software engineer focused on TypeScript development and building prac
 - Documenting bugs and inconsistencies in AI outputs
 
 **Tech Stack:** TypeScript, (AI APIs), Web  
-**GitHub:** https://github.com/Sarrul/ai-video-testing-playground.git 
-
+**GitHub:** https://github.com/Sarrul/ai-video-testing-playground.git    
 **Demo:** (optional for now)
 
 ---
@@ -24,7 +23,7 @@ Full-stack software engineer focused on TypeScript development and building prac
 - Uses Gemini for story generation and HuggingFace for image generation
 
 **Tech Stack:** TypeScript, Gemini API, HuggingFace  
-**GitHub:** https://github.com/Sarrul/ai-tools-front.git 
+**GitHub:** https://github.com/Sarrul/ai-tools-front.git    
 **Demo:** https://ai-tools-front-theta.vercel.app/
 
 ---
@@ -34,7 +33,7 @@ Full-stack software engineer focused on TypeScript development and building prac
 - Implemented backend + frontend features and CI/CD pipeline
 
 **Tech Stack:** Fullstack, Cloud, CI/CD  
-**GitHub:** https://github.com/pinecone-studio/pinequest-s3-e2-delphin.git
+**GitHub:** https://github.com/pinecone-studio/pinequest-s3-e2-delphin.git    
 **Demo:** https://project-h0kza.vercel.app/
 
 ---
