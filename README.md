@@ -13,7 +13,7 @@ Aspiring Software Engineer with experience in fullstack development, cloud-based
 - Documenting bugs and inconsistencies in AI outputs
 
 **Tech Stack:** TypeScript, (AI APIs), Web  
-**GitHub:** [link]  
+**GitHub:** https://github.com/Sarrul/ai-video-testing-playground.git 
 **Demo:** (optional for now)
 
 ---
@@ -23,8 +23,8 @@ Aspiring Software Engineer with experience in fullstack development, cloud-based
 - Uses Gemini for story generation and HuggingFace for image generation
 
 **Tech Stack:** TypeScript, Gemini API, HuggingFace  
-**GitHub:** [your repo link]  
-**Demo:** [your demo link]
+**GitHub:** https://github.com/Sarrul/ai-tools-front.git 
+**Demo:** https://ai-tools-front-theta.vercel.app/
 
 ---
 
@@ -33,7 +33,8 @@ Aspiring Software Engineer with experience in fullstack development, cloud-based
 - Implemented backend + frontend features and CI/CD pipeline
 
 **Tech Stack:** Fullstack, Cloud, CI/CD  
-**GitHub:** [link if available]
+**GitHub:** https://github.com/pinecone-studio/pinequest-s3-e2-delphin.git
+**Demo:** https://project-h0kza.vercel.app/
 
 ---
 
