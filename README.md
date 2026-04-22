@@ -14,6 +14,7 @@ Full-stack software engineer focused on TypeScript development and building prac
 
 **Tech Stack:** TypeScript, (AI APIs), Web  
 **GitHub:** https://github.com/Sarrul/ai-video-testing-playground.git 
+
 **Demo:** (optional for now)
 
 ---
